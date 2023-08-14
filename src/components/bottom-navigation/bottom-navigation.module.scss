@@ -1,2 +1,74 @@
 .root {
+  display: flex;
+  justify-content: center;
+}
+.content {
+  max-width: 1280px;
+  display: flex;
+  column-gap: 48px;
+  width: 100%;
+  align-items: start;
+  padding-top: 48px;
+  padding-bottom: 48px;
+  font-size: 14px;
+  line-height: 20px;
+}
+.logoSection {
+  display: flex;
+  align-items: center;
+  text-transform: uppercase;
+  column-gap: 8px;
+  padding-top: 4px;
+}
+.navSection {
+  width: max-content;
+}
+.deploySection {
+  padding-bottom: 8px;
+  padding-top: 8px;
+  display: flex;
+  justify-content: end;
+  flex-grow: 1;
+}
+.logo {
+  width: 10px;
+}
+.logoContainer {
+  width: 30px;
+  height: 30px;
+  border-radius: 8px;
+  box-shadow: inset 0 0 0 1px #e5e5e5;
+  display: flex;
+  justify-content: center;
+  background-color: white;
+}
+.navList {
+  list-style-type: none;
+  padding: 0px;
+  display: flex;
+  flex-direction: column;
+  row-gap: 8px;
+  margin: 1px;
+}
+.navLink {
+  color: #737373;
+  padding: 8px;
+  display: inline-block;
+}
+.deployButton {
+  background-color: white;
+  box-shadow: inset 0 0 0 1px #e5e5e5;
+  padding: 0px;
+}
+.arrowUp {
+  padding-top: 6px;
+  padding-right: 12px;
+  padding-bottom: 6px;
+  padding-left: 12px;
+  display: inline-block;
+  box-shadow: inset -1px 0 #e5e5e5;
+}
+.buttonLabel {
+  padding-right: 12px;
+  padding-left: 12px;
 }

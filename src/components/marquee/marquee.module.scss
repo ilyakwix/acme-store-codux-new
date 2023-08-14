@@ -1,2 +1,11 @@
 .root {
+  overflow: hidden;
+  padding-top: 4px;
+  padding-bottom: 24px;
+  display: flex;
+}
+.content {
+  display: grid;
+  grid-template-columns: 465px 465px 465px 465px;
+  column-gap: 16px;
 }

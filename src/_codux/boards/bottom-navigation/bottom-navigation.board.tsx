@@ -3,5 +3,12 @@ import { BottomNavigation } from '../../../components/bottom-navigation/bottom-n
 
 export default createBoard({
     name: 'BottomNavigation',
-    Board: () => <BottomNavigation />
+    Board: () => <BottomNavigation />,
+    environmentProps: {
+        windowWidth: 1400,
+        canvasMargin: {
+            left: 0,
+            right: 0,
+        },
+    },
 });

@@ -11,7 +11,7 @@ function App() {
         <div className={styles.root}>
             <Header />
             <ProductGrid />
-            <Marquee />
+            <Marquee className={styles.marquee} />
             <BottomNavigation />
             <Footer />
         </div>

@@ -1,2 +1,36 @@
 .root {
+  display: flex;
+  justify-items: center;
+  justify-content: center;
+  box-shadow: inset 0 1px #e5e5e5;
+}
+.content {
+  max-width: 1280px;
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  font-size: 14px;
+  line-height: 20px;
+  color: #737373;
+  padding-top: 24px;
+  padding-bottom: 24px;
+}
+.divider {
+  width: 1px;
+  height: 16px;
+  background-color: #a3a3a3;
+  margin-right: 0px;
+}
+.leftSideContainer {
+  display: flex;
+  align-items: center;
+  column-gap: 16px;
+}
+.vercelLogo {
+  color: black;
+}
+.rightSideContainer {
+  display: flex;
+  align-items: center;
+  column-gap: 4px;
 }

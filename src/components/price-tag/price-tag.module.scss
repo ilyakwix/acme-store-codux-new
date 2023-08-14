@@ -1,0 +1,20 @@
+.root {
+  font-size: 12px;
+  line-height: 16px;
+  font-weight: 700;
+  padding: 4px 4px 4px 12px;
+  display: inline-flex;
+  column-gap: 16px;
+  box-shadow: 0 0 0 1px #e5e7eb inset;
+  border-radius: 999rem;
+  align-items: center;
+  background-color: rgba(255, 255, 255, 0.7);
+}
+.name {
+}
+.price {
+  padding: 8px;
+  border-radius: 999px;
+  background-color: #2563eb;
+  color: white;
+}
