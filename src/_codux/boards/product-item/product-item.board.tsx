@@ -14,4 +14,5 @@ export default createBoard({
         canvasWidth: 576,
         canvasHeight: 322,
     },
+    isSnippet: true,
 });

@@ -3,5 +3,6 @@ import { Header } from '../../../components/header/header';
 
 export default createBoard({
     name: 'Header',
-    Board: () => <Header />
+    Board: () => <Header />,
+    isSnippet: true,
 });
