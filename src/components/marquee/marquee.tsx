@@ -17,22 +17,22 @@ export const Marquee = ({ className }: MarqueeProps) => {
                 <ProductItem
                     name="Acme Baby Onesie"
                     price={10}
-                    imageUrl="https://images.unsplash.com/photo-1661956600655-e772b2b97db4?ixlib=rb-4.0.3&amp;ixid=M3wxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&amp;auto=format&amp;fit=crop&amp;w=1335&amp;q=80"
+                    imageUrl="https://static.wixstatic.com/media/f09b13_d756eb3bc78c4f2291771813dcc98a6e~mv2.png"
                 />
                 <ProductItem
                     name="Acme Baby Cap"
                     price={10}
-                    imageUrl="https://images.unsplash.com/photo-1690914913845-3863dbd15a9a?ixlib=rb-4.0.3&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&amp;auto=format&amp;fit=crop&amp;w=2148&amp;q=80"
+                    imageUrl="https://static.wixstatic.com/media/f09b13_08c455c8a7104f47837179d471933f4a~mv2.png "
                 />
                 <ProductItem
                     name="Acme Mug"
                     price={15}
-                    imageUrl="https://images.unsplash.com/photo-1691200007743-0652bbbc1d7d?ixlib=rb-4.0.3&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&amp;auto=format&amp;fit=crop&amp;w=1335&amp;q=80"
+                    imageUrl="https://static.wixstatic.com/media/f09b13_1e9b7028ae134c888a95e769989b81ba~mv2.png"
                 />
                 <ProductItem
                     name="Acme Hoodie"
                     price={50}
-                    imageUrl="https://plus.unsplash.com/premium_photo-1666666222364-7479e7347833?ixlib=rb-4.0.3&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&amp;auto=format&amp;fit=crop&amp;w=987&amp;q=80"
+                    imageUrl="https://static.wixstatic.com/media/f09b13_5e12933383fa4be381437fd12600929b~mv2.png"
                 />
             </div>
         </div>

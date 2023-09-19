@@ -16,7 +16,7 @@ export const Footer = ({ className }: FooterProps) => {
                 <span className={styles.leftSideContainer}>
                     <span>© 2023 ACME, Inc. All rights reserved.</span>
                     <div className={styles.divider} />
-                    <span>© 2023 ACME, Inc. All rights reserved.</span>
+                    <span> Designed in California</span>
                 </span>
                 <span className={styles.rightSideContainer}>
                     Crafted by

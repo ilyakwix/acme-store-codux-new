@@ -7,7 +7,7 @@ export default createBoard({
         <ProductItem
             name="Acme Circles T-Shirt"
             price={20}
-            imageUrl="https://images.unsplash.com/photo-1658988958556-72342117610f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2670&q=80"
+            imageUrl="https://static.wixstatic.com/media/f09b13_5e12933383fa4be381437fd12600929b~mv2.png"
         />
     ),
     environmentProps: {
